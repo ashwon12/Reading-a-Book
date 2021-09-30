@@ -6,12 +6,12 @@
 <summary>디스패처가 무엇인가?</summary>
 <div markdown="1">       
 
-  
-    한국어로 '보내다'라는 뜻으로 만들어진 `코루틴을 관리하고있는 스레드의 상황에 맞춰서 배분하는 역할`을 한다.
+   한국어로 '보내다'라는 뜻으로 만들어진 `코루틴을 관리하고있는 스레드의 상황에 맞춰서 배분하는 역할`을 한다.
     
-    디스패처가 굉장히 잘 정리되어 있는 블로그!
     
-    [[Coroutine] 3. Dispatcher 란?](https://kotlinworld.tistory.com/141)
+디스패처가 굉장히 잘 정리되어 있는 블로그!
+    
+[[Coroutine] 3. Dispatcher 란?](https://kotlinworld.tistory.com/141)
 
 </div>
 </details>
@@ -20,10 +20,8 @@
 <summary>디퍼드!?</summary>
 <div markdown="1">       
 
-    
-    결과값 수신을 연기한다라는 뜻,.. `결과값을 수신하는 비동기 작업`이다. 
-    
-    [https://kotlinworld.com/149](https://kotlinworld.com/149)
+결과값 수신을 연기한다라는 뜻,.. `결과값을 수신하는 비동기 작업`이다. 
+[https://kotlinworld.com/149](https://kotlinworld.com/149)
 
 </div>
 </details>
@@ -32,11 +30,11 @@
 <summary>코루틴의 job
     </summary>
 <div markdown="1">       
-    코루틴을 컨트롤하기 위해 존재하는 아이들. 
+코루틴을 컨트롤하기 위해 존재하는 아이들. 
     
-    코루틴의 상태를 가지고 있고 여러개 또는 한개의 코루틴 동작을 제어할 수 있다. 
+코루틴의 상태를 가지고 있고 여러개 또는 한개의 코루틴 동작을 제어할 수 있다. 
     
-    [Kotlin Coroutines의 Job 동작을 알아보자 |](https://thdev.tech/kotlin/2019/04/08/Init-Coroutines-Job/)
+[Kotlin Coroutines의 Job 동작을 알아보자 |](https://thdev.tech/kotlin/2019/04/08/Init-Coroutines-Job/)
     
 
 
