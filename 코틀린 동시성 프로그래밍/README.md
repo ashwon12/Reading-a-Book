@@ -22,6 +22,8 @@
 - [2-3. UI에서 코루틴 디스패처 사용하기](https://github.com/ashwon12/Reading-a-Book/blob/main/%EC%BD%94%ED%8B%80%EB%A6%B0%20%EB%8F%99%EC%8B%9C%EC%84%B1%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/02.%EC%BD%94%ED%8B%80%EB%A6%B0%20%EC%9D%B8%20%EC%95%A1%EC%85%98/UI%EC%97%90%EC%84%9C%20%EC%BD%94%EB%A3%A8%ED%8B%B4%20%EB%94%94%EC%8A%A4%ED%8C%A8%EC%B2%98%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 - [추가로 찾아본 부분 & 궁금한 점 & 느낀 점](https://github.com/ashwon12/Reading-a-Book/blob/main/%EC%BD%94%ED%8B%80%EB%A6%B0%20%EB%8F%99%EC%8B%9C%EC%84%B1%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/02.%EC%BD%94%ED%8B%80%EB%A6%B0%20%EC%9D%B8%20%EC%95%A1%EC%85%98/More.md)
 #### 3장 | 라이트 사이클과 에러 핸들링
+- 3-1. 잡(job)의 사용사례와 라이프사이클
+- 3-2. 디퍼드(Deferrd)의 사용사례와 라이프사이클
 #### 4장 | 일시 중단 함수와 코루틴 컨텍스트
 #### 5장 | 이터레이터, 시퀀스 그리고 프로듀서
 #### 6장 | 채널-통신을 통한 메모리 공유
